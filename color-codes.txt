@@ -1,0 +1,12 @@
+Light mode logo
+==============================
+
+'brew' color code : #2a2a2a
+'soket' color code : #0072bc
+
+
+Dark mode logo
+==============================
+
+'brew' color code : #f0f0f0
+'soket' color code : #0085db
